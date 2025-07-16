@@ -1,6 +1,6 @@
 This project implements a **Car Parking System** using Verilog HDL. It simulates the logic of monitoring and controlling car entries and exits in a parking lot, with features such as gate control, slot counting, and status indication.
 
-## 🚗 Project Overview
+##  Project Overview
 
 The Car Parking System is designed to:
 
